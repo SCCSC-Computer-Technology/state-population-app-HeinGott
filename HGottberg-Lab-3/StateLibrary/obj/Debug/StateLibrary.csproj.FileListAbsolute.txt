@@ -1,0 +1,6 @@
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\StateLibrary\bin\Debug\StateLibrary.dll
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\StateLibrary\bin\Debug\StateLibrary.pdb
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\StateLibrary\obj\Debug\StateLibrary.csproj.AssemblyReference.cache
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\StateLibrary\obj\Debug\StateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\StateLibrary\obj\Debug\StateLibrary.dll
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\StateLibrary\obj\Debug\StateLibrary.pdb

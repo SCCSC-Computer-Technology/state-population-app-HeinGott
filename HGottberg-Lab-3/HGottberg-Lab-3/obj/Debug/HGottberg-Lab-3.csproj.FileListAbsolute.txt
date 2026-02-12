@@ -1,0 +1,15 @@
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\bin\Debug\HGottberg-Lab-3.exe.config
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\bin\Debug\HGottberg-Lab-3.exe
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\bin\Debug\HGottberg-Lab-3.pdb
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg-Lab-3.csproj.AssemblyReference.cache
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg_Lab_3.DatabaseForm.resources
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg_Lab_3.InfoForm.resources
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg_Lab_3.MainForm.resources
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg_Lab_3.Properties.Resources.resources
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg-Lab-3.csproj.GenerateResource.cache
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg-Lab-3.csproj.CoreCompileInputs.cache
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg-Lab-3.exe
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottberg-Lab-3.pdb
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\bin\Debug\StateLibrary.dll
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\bin\Debug\StateLibrary.pdb
+C:\Users\heinr\OneDrive - Spartanburg Community College\Advanced C#\HGottberg-Lab-3\HGottberg-Lab-3\obj\Debug\HGottber.4EAD4790.Up2Date
