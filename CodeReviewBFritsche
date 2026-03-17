@@ -1,0 +1,8 @@
+Is the code generally readable and well-documented?
+- The code is put in blocks, making it easy to read; however, I saw little to no comments documenting the code in the program.
+Did you find any software defects?
+- I was given an exception when attemping to run the program, saying that the SQL server was not found or accessible. This may just be a problem on my end, but it may need to be looked into.
+What was one way that their solution differed from yours?
+- I notice that no labels were used in the info form, whereas I used labels in mine; also, the showing of information was done from the second form and not the main form like mine.
+Do you have any other constructive comments for the author?
+- I would be sure to add more comments to document the code, as well as adding an exception handling mechanism to handle exceptions. Other than that, good job!
